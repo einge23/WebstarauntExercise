@@ -11,3 +11,15 @@ The <code>StoreInventory</code> class has the ability to do the following:
 </ul>
 
 Unit tests were written with ```JUnit``` and cover the implementations of the ```Product``` and ```StoreInventory``` classes.
+
+<h2>To Run Tests</h2>
+<p>Clone this repository and open the project in desired IDE.</p>
+</br>
+<p>Ensure Java and Maven are installed.</p>
+</br>
+<p>Run <code>mvn -v</code> to ensure maven CLI is installed.</p>
+</br>
+<p>Navigate to <code>~/WebstarauntExercise/webstaraunt</code> and run <code>mvn test</code> to run tests.</p>
+</br>
+<p>Test results will appear in the terminal!</p>
+
